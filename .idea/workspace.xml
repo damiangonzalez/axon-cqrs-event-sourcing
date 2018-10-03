@@ -2,49 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe966f51-d763-4240-873c-285aed9da702" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung.htm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/201801_APM_ads_set_b_Java2_300.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/512471148948613" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/9539554.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/analytics.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/autoptimize_5895a33331142456aa8a19880400c2c0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/autoptimize_97ea10ed1ec4f190aef2d44a4e51b506.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/autoptimize_single_488ca2f56c37f84283fc9be63219304f.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/autoptimize_single_a122e7137e224f646b22b910a779d211.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/autoptimize_single_ba290ac0111d2c3f8e1ce36fbaf6a239.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/baeldung-rest-post-footer-icn-1.0.0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/baeldung-rest-post-footer-main-1.2.0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/baeldung-rest-widget-main-1.2.0.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/bsa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/css(1)" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/fbevents.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/frontend.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/frontend.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/gpt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/integrator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/jquery-migrate.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/menu-core.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/pro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/pubads_impl_257.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/raw_4a75f274c8ad0bc9dc361e0cec1d2b42.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/s_a46ade12460854312b57879d579e1ee2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/saved_resource" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/search.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/whiteleaf.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/wp-embed.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung_files/wp-emoji-release.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/axon-cqrs-event-sourcing.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CreateMessageCommand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lmax_disruptor_3_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_axonframework_axon_core_2_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_axonframework_axon_test_2_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MarkReadMessageCommand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MessageCreatedEvent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/MessageReadEvent.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/axon-cqrs-event-sourcing.iml" afterPath="$PROJECT_DIR$/axon-cqrs-event-sourcing.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CreateMessageCommand.java" afterPath="$PROJECT_DIR$/src/main/java/CreateMessageCommand.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,12 +42,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateMessageCommand.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CreateMessageCommand.java">
+      <file leaf-file-name="MarkReadMessageCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MarkReadMessageCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageReadEvent.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MessageReadEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageCreatedEvent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MessageCreatedEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,6 +113,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/CreateMessageCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MarkReadMessageCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MessageCreatedEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MessageReadEvent.java" />
       </list>
     </option>
   </component>
@@ -107,6 +124,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -145,6 +169,13 @@
               <item name="axon-cqrs-event-sourcing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="axon-cqrs-event-sourcing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="axon-cqrs-event-sourcing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,22 +300,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538593635062</updated>
-      <workItem from="1538593640353" duration="495000" />
+      <workItem from="1538593640353" duration="1248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="495000" />
+    <option name="totallyTimeSpent" value="1248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1067" height="844" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977304" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977304" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -292,7 +324,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497561" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37365854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -329,9 +361,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CreateMessageCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A Guide to the Axon Framework _ Baeldung.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="69" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MessageCreatedEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MarkReadMessageCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MessageReadEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
